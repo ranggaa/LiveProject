@@ -258,7 +258,7 @@ public static String generateDate()
 }
 public static void add()
 {
-	int a=45,b=98,c;
+	int a=344566,b=2345,c;
 	c=a+b;
 	System.out.println(c);
 }
